@@ -28,8 +28,8 @@ public class MainActivity extends AppCompatActivity {
     public void inmul(View view) {
 
         Intent i=new Intent(this,MainActivity2.class);
-        i.putExtra("Name","Amrutha");
-        i.putExtra("Place","Nilambur");
+        i.putExtra("Name","HASNA");
+        i.putExtra("Place","GURUVAYOOR");
         startActivity(i);
 
     }
